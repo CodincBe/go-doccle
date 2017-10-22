@@ -1,7 +1,0 @@
-# Doccler
-
-A simple tool to use the (none-documented) api of Doccle.
-This tool has as a sole purpose to automate administrational tasks as much as possible.
-
-A perfect, and personally used, use-case of this tool is retrieving the documents from Doccle to store them
-on a centralized location (hello G-Drive) which in turn can be monitored to push the documents to your accountant.
