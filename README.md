@@ -1,7 +1,7 @@
 # README
 
 Originally forked from [jonaswouters/go-doccle](https://github.com/jonaswouters/go-doccle), all kudos to him
-for having the information on the API already identified.
+for having the information on the API already identified and providing large part of this code, I only moved this to v2 and used it as a good practice for getting back into golang.
 
 A simple set up that potentially will not need to be altered much more unless new use cases are being added.
 
